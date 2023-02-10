@@ -1,11 +1,25 @@
-# Welcome to your Jupyter Book
+# 人間機械協調に向けたロボット工学
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+このWebサイトは人と機械（ロボット）が協調・協働作業に関する研究開発に取り組む際に必要となるロボット工学について、自身の備忘録としてまとめているものです。
+思いつきで作成し始めたので０からのスタートですが、１０年計画ぐらいで少しずつ進められればと思います。
 
-Check out the content pages bundled with this sample book to see more.
+このサイトのもう一つの（本当の）目的は、現在私が開発中のOSSライブラリ（予定）の宣伝を兼ねて、その使い方や各部について解説することです。そのライブラリは下記からアクセスできます。
+
+OpenHRC:　https://github.com/itadera/OpenHRC
+
+```{caution}
+こちらのライブラリは、私の業務内で研究開発中のものであり、公開に向けて所属先と調整中です。
+そのため、現在は非公開になっています。
+
+```
+このライブラリは、誰でも人機械協調を試せるようにROSのパッケージとして開発しています。
+詳しい使い方はパッケージ内のREADME（英語）を見て下さい。
+このサイトでは、ここでの基礎を日本語で解説するために作成しています。
+また、このサイトは業務外での個人解説ですので、ここでの見解は私の所属先とは一切関係ありません。
+
+ここで開発するソースコードは基本C++もしくはPythonになります。
+
+
 
 ```{tableofcontents}
 ```
